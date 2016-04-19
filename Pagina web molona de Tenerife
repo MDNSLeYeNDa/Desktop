@@ -1,0 +1,30 @@
+<html>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="CSS/Index.css" type="text/css" >
+  <div class="music">
+  <p>Alan Walker "Fade"</p>
+  <img src="Img/AlanWalker.jpg"/>
+   <audio controls autoplay loop>
+	<source src="Multimedia/alan-walker-fade-ncs-release.mp3" type="audio/mpeg">
+   </audio>
+  </div>
+  <body>
+  <header><p>Tenerife</p> <img src="Img/Bandera_Tenerife.jpeg"/></header>
+  <nav>
+	<a href="HTML/InformacionGeneral.html">Información General</a>
+	<a href="HTML/Localizacion.html">Localización</a>
+	<a href="HTML/FlorayFauna.html">Flora y Fauna</a>
+	<a href="HTML/Contacta.html">Contacta con Nosotros</a>
+  </nav>
+  <div id="Imagenes">
+		<img src="Img/Indeximg1.jpg"/>
+		<img src="Img/Indeximg2.jpg"/>
+		<img src="Img/Indeximg3.jpg"/>
+		<img src="Img/Indeximg4.jpg"/>
+		<img src="Img/Indeximg5.jpg"/>
+  </div>
+  <footer>
+  <pre>									&#169;Tenerife         Autor: Adrián Morales Martín</pre>
+  </footer>
+  </body>
+</html>
